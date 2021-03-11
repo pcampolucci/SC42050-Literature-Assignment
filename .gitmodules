@@ -1,0 +1,3 @@
+[submodule "sedumi"]
+	path = sedumi
+	url = git@github.com:sqlp/sedumi.git
